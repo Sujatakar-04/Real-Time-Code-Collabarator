@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "codemirror": "^6.0.2",
+    "react-avatar": "^5.0.4",
+    "react-hot-toast": "^2.6.0"
+  }
+}
